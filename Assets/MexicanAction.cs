@@ -16,4 +16,9 @@ public class MexicanAction : MonoBehaviour {
 			Destroy(gameObject);
         }	
 	}
+
+    private void OnMouseUp()
+    {
+        print("abc2\n");
+    }
 }

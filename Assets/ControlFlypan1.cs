@@ -26,4 +26,5 @@ public class ControlFlypan1 : MonoBehaviour {
         //Destroy(gameObject);
     }
 
+ 
 }

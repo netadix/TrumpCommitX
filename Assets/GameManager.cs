@@ -49,4 +49,9 @@ public class GameManager : MonoBehaviour {
         
 
     }
+
+    private void OnMouseUp()
+    {
+        print("abc\n");
+    }
 }
